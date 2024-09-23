@@ -1,0 +1,1 @@
+export type Tfunc = (arg :any) => void;
